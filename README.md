@@ -9,6 +9,7 @@ OCR 결과로 나온 txt파일의 인코딩은 UTF-8인데 한글이 깨지는 �
 (해당 프로그램은 http://blog.daum.net/masoris20/26 에서 제작된 프로그램입니다)
 
 # 2. make csv file
+MakeCsvFile.exe 을 사용하여 txt 파일들을 csv 파일로 통합한다.
 txt file들을 파일명, 파일의 내용(OCR 결과) pair로 csv파일을 만든다.
 
 # 3. insert csv contents to DB
